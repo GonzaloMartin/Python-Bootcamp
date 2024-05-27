@@ -1,0 +1,19 @@
+##############################################
+###               .gitignore               ###
+##############################################
+
+# Basuras de Pycharm
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Reportes (de momento no subir a git)
+allureRep/
+report/
+archive/
+output.json
+pytest_html_report.html
+
+# Customs
+.idea/
+venv/
