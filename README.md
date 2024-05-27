@@ -39,7 +39,8 @@ Se requiere la versión de `python>=3.9` en adelante y `pip>=24.0`.
     ```
 
 3. **Creación entorno virtual:**
-   Crear un Entorno Virtual (Opcional pero Recomendado): Para evitar conflictos con otras dependencias de Python en su sistema, es recomendable crear un entorno virtual. Esto se puede hacer con el siguiente comando:
+   
+   Para evitar conflictos con otras dependencias de Python en su sistema, es recomendable crear un entorno virtual. Esto se puede hacer con el siguiente comando:
    ```bash
     python -m venv venv
     ```
