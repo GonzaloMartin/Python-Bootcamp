@@ -2,7 +2,7 @@
 
 Hola! mi nombre es [@GonzaloMartin](https://github.com/GonzaloMartin) y creé este Bootcamp de Python orientado a la Automatización de procesos, servicios, absolutamente todo en general. Este bootcamp consta de 10 clases intensivas donde aprenderás los fundamentos de Python con un enfoque práctico y orientado a la automatización de tareas. Este contenido es libre y abierto para todos los que deseen aprender y mejorar sus habilidades en programación.
 
-Aprender Python no solo proporciona una habilidad valiosa en sí misma, sino que también abre la puerta a un amplio abanico de aplicaciones y oportunidades profesionales. Su combinación de simplicidad, versatilidad y poder lo convierte en una herramienta esencial en el repertorio de cualquier desarrollador.
+Aprender Python no solo proporciona una habilidad valiosa en sí misma, sino que también abre la puerta a un amplio abanico de aplicaciones y oportunidades profesionales. Combinando lo simple que es, lo versatil y el poder que tiene, lo convierte en una herramienta esencial en el repertorio de cualquier desarrollador.
 
 
 ## Objetivos:
@@ -19,9 +19,9 @@ Al finalizar este bootcamp vas a contar con herramientas para desempeñarte como
 Personas con o sin experiencia en algún lenguaje de programación que quieran aprender y crear soluciones de código en Python.
 
 
-# Repo
+# Repositorio
 
-### Instalación
+## Instalación
 
 Se requiere la versión de `python>=3.9` en adelante y `pip>=24.0`.
 
@@ -38,7 +38,18 @@ Se requiere la versión de `python>=3.9` en adelante y `pip>=24.0`.
     cd Python-Bootcamp
     ```
 
-3. **Instala las dependencias:**
+3. **Creación entorno virtual:**
+   Crear un Entorno Virtual (Opcional pero Recomendado): Para evitar conflictos con otras dependencias de Python en su sistema, es recomendable crear un entorno virtual. Esto se puede hacer con el siguiente comando:
+   ```bash
+    python -m venv venv
+    ```
+	
+4. **Activación entorno virtual**
+	```bash
+    venv\Scripts\activate
+    ```
+
+5. **Instala las dependencias:**
 	```bash
     pip install -r requirements.txt
     ```
