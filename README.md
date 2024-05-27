@@ -2,7 +2,7 @@
 
 Hola! mi nombre es [@GonzaloMartin](https://github.com/GonzaloMartin) y creé este Bootcamp de Python orientado a la Automatización de procesos, servicios, absolutamente todo en general. Este bootcamp consta de 10 clases intensivas donde aprenderás los fundamentos de Python con un enfoque práctico y orientado a la automatización de tareas. Este contenido es libre y abierto para todos los que deseen aprender y mejorar sus habilidades en programación.
 
-Aprender Python no solo proporciona una habilidad valiosa en sí misma, sino que también abre la puerta a un amplio abanico de aplicaciones y oportunidades profesionales. Combinando lo simple que es, lo versatil y el poder que tiene, lo convierte en una herramienta esencial en el repertorio de cualquier desarrollador.
+Aprender Python no solo proporciona una habilidad valiosa en sí misma, sino que también abre la puerta a un amplio abanico de aplicaciones y oportunidades profesionales. Combinando lo simple que es y el poder que tiene, lo convierte en una herramienta esencial en el repertorio de cualquier desarrollador.
 
 
 ## Objetivos:
