@@ -17,3 +17,4 @@ pytest_html_report.html
 # Customs
 .idea/
 venv/
+*.py
