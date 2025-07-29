@@ -1,11 +1,12 @@
 ##############################################
-###               .gitignore               ###
+###    .gitignore para Python Bootcamp     ###
 ##############################################
 
-# Basuras de Pycharm
+# Basuras de Pycharm o vscode
 __pycache__/
 .pytest_cache/
 *.pyc
+.vscode/
 
 # Reportes (de momento no subir a git)
 allureRep/
