@@ -18,6 +18,7 @@ pytest_html_report.html
 # Customs
 .idea/
 venv/
+.venv/
 *.py
 **/Entregas/
 Entregas.md
