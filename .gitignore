@@ -22,3 +22,6 @@ venv/
 *.py
 **/Entregas/
 Entregas.md
+seguimiento.ipynb
+seguimiento.py
+bootcamp.db
