@@ -1,1 +1,2 @@
-jupyter==1.0.0
+jupyter==1.1.1
+selenium==4.39.0
